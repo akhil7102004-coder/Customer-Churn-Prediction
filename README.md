@@ -123,6 +123,35 @@ The models were evaluated using:
 | Decision Tree | 73.11% |
 
 ---
+## 📸 Project Visualizations
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](images/customer_churn_distribution.png)
+
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
 
 ## 📁 Project Structure
 
