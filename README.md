@@ -1,10 +1,10 @@
 # 📊 Customer Churn Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-![License](https://img.shields.io/badge/License-MIT-green)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
